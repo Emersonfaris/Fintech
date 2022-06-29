@@ -1,0 +1,72 @@
+.title-header {
+    background: #518EF8;
+    position: relative;
+    text-align: center;
+    padding-bottom: 0.2%;
+}
+.title-header h1{
+    color: white;
+}
+.title-sub-header{
+    background: #CEDAF6;
+    position: relative;
+    text-align: center;
+    padding-bottom: 0.2%;
+}
+.col-md-4 img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.row{
+    margin-top: 5%; 
+    position: relative;
+    text-align:center;
+}
+
+hr{
+    border-top: 1px solid rgb(0, 0, 0);
+}
+
+.icon-home img{
+    max-width:100px;
+    max-width:100px;
+    float: left;
+    margin: 0 auto;
+} 
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    #customers td, #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        color: rgb(0, 0, 0);
+    }
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        background-color: #CEDAF6;
+    }
+    tbody td{
+        text-align: center;
+    }
+    .bi-eraser-fill{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: #518EF8;
+}
+.bi-archive-fill{
+    color: #518EF8;
+}
+
+.form-spending{
+    margin-top: 2%;
+}
+#btn-add-spending, #btn-new-spending, #btn-edit-spending, #btn-enter{
+    width: 100%;
+}
